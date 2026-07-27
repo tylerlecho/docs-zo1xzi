@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gcrzsx.pulaucuan.org/sitemap.xml
